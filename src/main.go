@@ -11,4 +11,5 @@ func main() {
 	Tool()
 	fmt.Println(Pub)
 	fmt.Println(power.Power)
+	power.PowTest()
 }
