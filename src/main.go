@@ -12,4 +12,7 @@ func main() {
 	fmt.Println(Pub)
 	fmt.Println(power.Power)
 	power.PowTest()
+	df := Dataset()
+	fmt.Println("test returing:")
+	fmt.Println(df)
 }
